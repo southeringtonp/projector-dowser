@@ -19,7 +19,7 @@ want to edit the CAD files directly, you'll also need a recent copy
 of Vectorworks, though you may be able to import the files into
 other CAD software.
 
-![Photo](...)
+![Photo](https://github.com/southeringtonp/projector-dowser/blob/master/Photos/Dowser.png)
 
 
 
