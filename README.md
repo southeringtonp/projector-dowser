@@ -11,7 +11,7 @@ kind is given. Use at your own risk.
 
 A dowser can be built for under $100 with this approach, and
 with some more work more cost can be shaved off. Commercially
-versions typically run for $100 or more, though you likely
+versions typically run for $500 or more, though you likely
 get what you pay for.
 
 You will need a 3D Printer and assorted off-the-shelf parts. If you
